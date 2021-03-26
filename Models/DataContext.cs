@@ -10,6 +10,7 @@ namespace AngServices.Models
         {
         }
         public DbSet<Pessoa> Pessoa { get; set; }
+        public DbSet<Animal> Animal { get; set; }
 
     }
 }

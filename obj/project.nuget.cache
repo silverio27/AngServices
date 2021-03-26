@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+16v8EhF4/45CS1BuGlVI3c2IezeotA9g8GOBSt9ETqf9Merr7sbNE9B/t93PvaTcdNWaCx0c22XjSv3k9Ru2A==",
+  "dgSpecHash": "Zf8PW0aUSo2OPye631LRl3lHFGYuZblg+ckkWEMXqx+ZmzQmt4q+OZKxw7zIJZJEvLCtX/Own1aqOAw+w54XAQ==",
   "success": true,
-  "projectFilePath": "C:\\work\\my-projects\\Training\\AngServices\\AngServices.csproj",
+  "projectFilePath": "c:\\work\\my-projects\\Training\\AngServices\\AngServices.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\silve\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.4\\microsoft.entityframeworkcore.5.0.4.nupkg.sha512",
     "C:\\Users\\silve\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.4\\microsoft.entityframeworkcore.abstractions.5.0.4.nupkg.sha512",

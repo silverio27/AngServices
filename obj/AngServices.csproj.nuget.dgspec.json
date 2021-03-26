@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\work\\my-projects\\Training\\AngServices\\AngServices.csproj": {}
+    "c:\\work\\my-projects\\Training\\AngServices\\AngServices.csproj": {}
   },
   "projects": {
-    "C:\\work\\my-projects\\Training\\AngServices\\AngServices.csproj": {
+    "c:\\work\\my-projects\\Training\\AngServices\\AngServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\work\\my-projects\\Training\\AngServices\\AngServices.csproj",
+        "projectUniqueName": "c:\\work\\my-projects\\Training\\AngServices\\AngServices.csproj",
         "projectName": "AngServices",
-        "projectPath": "C:\\work\\my-projects\\Training\\AngServices\\AngServices.csproj",
+        "projectPath": "c:\\work\\my-projects\\Training\\AngServices\\AngServices.csproj",
         "packagesPath": "C:\\Users\\silve\\.nuget\\packages\\",
-        "outputPath": "C:\\work\\my-projects\\Training\\AngServices\\obj\\",
+        "outputPath": "c:\\work\\my-projects\\Training\\AngServices\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
